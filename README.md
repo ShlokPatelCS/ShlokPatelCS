@@ -67,4 +67,4 @@ My goal is to develop strong technical skills in software engineering and AI, co
 
 **GitHub:** [My Coding Portfolio](https://github.com/XenoOnYT/Coding-Projects-By-Shlok-Patel)
 
-**LinkedIn:** Add your LinkedIn profile URL here
+**LinkedIn:** www.linkedin.com/in/shlok-patel-1ab3ba355
